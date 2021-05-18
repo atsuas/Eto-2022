@@ -65,3 +65,15 @@ crashlytics-build.properties
 *.FBX
 *.tga
 *.anim
+*.plist
+*.png
+*.storyboard
+*.sh
+*.h
+*.mm
+*.cpp
+*.c
+*.assets
+*.resS
+*.a
+*.m
