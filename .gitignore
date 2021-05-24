@@ -77,3 +77,8 @@ crashlytics-build.properties
 *.resS
 *.a
 *.m
+*.ogg
+*.wav
+*.asset
+*.prefab
+*.jpg
